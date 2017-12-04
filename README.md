@@ -26,7 +26,12 @@ Guides to managing the ongoing process of building a technical project at code f
 - What is the definition of a dead project
 - What to do when your project is dead
 
-## Legacy
+## Other
+
+Guides don't to fit into any particular point in the project cycle.
+
+---
+# Legacy
  
 Stolen from Open Austins Docs. Code For America used to have a project stage guideline but it seems to be now defunct. Currently hunting it down for ideas.
 
