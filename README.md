@@ -18,11 +18,10 @@ Guides to creating projects at code for miami
 
 [Project Landing Page Template](https://github.com/Code-for-Miami/project-landing-page-template)
 
-## Managing Projects
-Guides to managing projects at code for miami
+## Ongoing Projects
+Guides to managing the ongoing process of building a technical project at code for miami
 
-
-## Dead Phase
+## Dead Project
 
 - What is the definition of a dead project
 - What to do when your project is dead
