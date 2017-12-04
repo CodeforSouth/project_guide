@@ -14,6 +14,8 @@ If feel free to open a pull request or github issue to discuss various line item
 ## Creating Projects
 Guides to creating projects at code for miami
 
+[Project Landing Page Template](https://github.com/Code-for-Miami/project-landing-page-template)
+
 ### Steps
 
 
