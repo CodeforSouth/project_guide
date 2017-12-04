@@ -7,23 +7,19 @@ I believe projects need to be broken down into a idea phase, start phase, buildi
 If feel free to open a pull request or github issue to discuss various line items if one does not exist already, when you do please a make pr on this readme and link to the issue discussion.
 
 ## Ideas
+The birthplace of many past and future Code For Miami Projects
+this is the place to start if you have a new idea or looking to propose something.
 
 [Project Idea Guide and Template](https://github.com/Code-for-Miami/project-ideas)
 
 
-## Creating Projects
+## New Projects
 Guides to creating projects at code for miami
 
 [Project Landing Page Template](https://github.com/Code-for-Miami/project-landing-page-template)
 
-### Steps
-
-
 ## Managing Projects
 Guides to managing projects at code for miami
-
-
-## Growth and Maintenance
 
 
 ## Dead Phase
@@ -34,15 +30,6 @@ Guides to managing projects at code for miami
 ## Legacy
  
 Stolen from Open Austins Docs. Code For America used to have a project stage guideline but it seems to be now defunct. Currently hunting it down for ideas.
-
-## Project stages
-
-[Code for America's four project stages](https://www.codeforamerica.org/brigade/projects/stages).
-
-- [Experiment](https://www.codeforamerica.org/brigade/projects/stages#experiment)
-- [Alpha](https://www.codeforamerica.org/brigade/projects/stages#alpha)
-- [Beta](https://www.codeforamerica.org/brigade/projects/stages#beta)
-- [Official](https://www.codeforamerica.org/brigade/projects/stages#official)
 
 ### Start an **Experiment**
 
