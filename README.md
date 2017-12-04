@@ -32,7 +32,7 @@ Stolen from Open Austins Docs. Code For America used to have a project stage gui
 
 ### Start an **Experiment**
 
-The **experiment** stage is all about exploring problems/ideas. Code For Miami ## Project stages
+The **experiment** stage is all about exploring problems/ideas.
 
 Open Austin uses [Code for America's four project stages](https://www.codeforamerica.org/brigade/projects/stages).
 
