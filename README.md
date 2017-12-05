@@ -14,7 +14,9 @@ this is the place to start if you have a new idea or looking to propose somethin
 
 
 ## New Projects
-Guides to creating projects at code for miami
+Guides to creating projects at code for miami.
+
+[New Projects Task List](https://github.com/Code-for-Miami/project_guide/issues/2)
 
 [Project Landing Page Template](https://github.com/Code-for-Miami/project-landing-page-template)
 
