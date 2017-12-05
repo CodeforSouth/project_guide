@@ -1,10 +1,15 @@
 # Project Guide
-Guides to creating, managing and scaling open source projects at Code For Miami
+Guides to creating, managing and scaling open source projects at Code For Miami.
 
 A manifest of guides and resources we need to create. As we are just getting started everything here is open to debate.
 I believe projects need to be broken down into a idea phase, start phase, building phase, and dead phase.
 
-If feel free to open a pull request or github issue to discuss various line items if one does not exist already, when you do please a make pr on this readme and link to the issue discussion.
+If you would like to contribute feel free to open a pull request or github issue to discuss various line items if one does not exist already, when you do please a make pr on this readme and link to the issue discussion.
+
+**Goal**
+- Reduce frustrations for users and contributers
+- Be inviting to new projects and leads
+- Remove [@cyberstrike](https://github.com/CyberStrike) as a bottle-neck to getting things done.
 
 ## Ideas
 The birthplace of many past and future Code For Miami Projects
