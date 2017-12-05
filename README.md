@@ -9,6 +9,7 @@ If you would like to contribute feel free to open a pull request or github issue
 **Goal**
 - Reduce frustrations for users and contributers
 - Be inviting to new projects and leads
+- Prioritise small tasks for "Quick wins."
 - Remove [@cyberstrike](https://github.com/CyberStrike) as a bottle-neck to getting things done.
 
 ## Ideas
