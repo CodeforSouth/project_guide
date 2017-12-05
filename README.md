@@ -23,6 +23,8 @@ Guides to creating projects at code for miami.
 ## Ongoing Projects
 Guides to managing the ongoing process of building a technical project at code for miami
 
+[How to Approach Code Reviews](http://www.bettercode.reviews/)
+
 ## Dead Project
 
 - What is the definition of a dead project
