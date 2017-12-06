@@ -12,6 +12,14 @@ If you would like to contribute feel free to open a pull request or github issue
 - Prioritise small tasks for "Quick wins."
 - Remove [@cyberstrike](https://github.com/CyberStrike) as a bottle-neck to getting things done.
 
+```
+From the perspective of a user,
+if a feature is not documented, it does not exist.
+If a feature is documented incorrectly, then it is broken.
+- WriteTheDocs
+```
+
+
 ## Ideas
 The birthplace of many past and future Code For Miami Projects
 this is the place to start if you have a new idea or looking to propose something.
@@ -27,7 +35,7 @@ Guides to creating projects at code for miami.
 [Project Landing Page Template](https://github.com/Code-for-Miami/project-landing-page-template)
 
 ## Ongoing Projects
-Guides to managing the ongoing process of building a technical project at code for miami
+Guides to managing the ongoing process of building a technical project at code for miami.
 
 [How to Approach Code Reviews](http://www.bettercode.reviews/)
 
