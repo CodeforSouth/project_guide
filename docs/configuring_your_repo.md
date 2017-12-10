@@ -39,4 +39,4 @@ Using Githubs built-in safeguards we can make it easier to follow the critical s
   
 - [x] **Include administrators**
 
-  Enforce these steps on yourself lead by example.
+  Everyone follows the rules. Enforce these steps on yourself lead by example.
