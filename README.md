@@ -32,7 +32,26 @@ Guides to creating projects at code for miami.
 
 [New Projects Task List](https://github.com/Code-for-Miami/project_guide/issues/2)
 
-[Project Landing Page Template](https://github.com/Code-for-Miami/project-landing-page-template)
+A checklist that covers all the steps to creating a new project which will essentially translate to 
+a guide for every step.
+
+1. Announce your project
+   - Announce your starting your new project on the #projects channel.
+2. Name your project
+3. Create a Github Repo // Fork from Project Template
+4. [Configuring Your Repo](/docs/configuring_your_repo.md)
+
+    A guide on recommended changes to repository settings in order to facilitate smooth collaboration and management.
+    
+    - [Protect Your Master](/docs/configuring_your_repo.md#protect-master)
+    - [Squash It Up - Open Issue](https://github.com/Code-for-Miami/project_guide/issues/7)
+      
+      The what, why, how and caveats about squash only merge strategy for your master branch.
+
+5. [Create A landing page template](https://github.com/Code-for-Miami/project-landing-page-template)
+6. Update Readme with required information
+7. Gather and Document Requirements
+8. Pick a stack
 
 ## Ongoing Projects
 Guides to managing the ongoing process of building a technical project at code for miami.
