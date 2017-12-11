@@ -1,10 +1,13 @@
 
 # Code Review
 
+> The discipline of discussing your code with your peers.
+
 A guide for reviewing code and having your code reviewed.
 
 The technical how of doing a review on a pull-request can be found at [Github - Pull Request Reviews](https://help.github.com/articles/about-pull-request-reviews/).
 We can trust Github to keep their documentation up to date so no need to iterate the complete process here.
+
 
 Everyone
 --------
@@ -87,4 +90,7 @@ debating it within the code review. In the meantime, apply the guideline.
 
 
 ### Sources and References
-[Thoughtbot - Code Review Guide](https://github.com/thoughtbot/guides/tree/master/code-review)
+- [Code Review Guide - Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
+- [Implementing a Strong Code-Review Culture - RailsConf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s)
+- [Humanizing Peer Reviews - Karl E. Wiegers](http://www.processimpact.com/articles/humanizing_reviews.html)
+- [Code Reviews Considered Harmful - Hacker Noon](https://hackernoon.com/code-reviews-considered-harmful-a4cc9b2323dc)
