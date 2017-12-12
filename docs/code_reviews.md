@@ -1,7 +1,7 @@
 
-# Code Review
+# Code Reviews
 
-> The discipline of discussing your code with your peers.
+Code reviews are the discipline of discussing your code with your peers.
 
 A guide for reviewing code and having your code reviewed.
 
