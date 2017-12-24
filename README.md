@@ -56,8 +56,9 @@ a guide for every step.
 ## Ongoing Projects
 Guides to managing the ongoing process of building a technical project at code for miami.
 
+### Managing Contributiors and Contributions
 [How to Approach Code Reviews](http://www.bettercode.reviews/)
-
+[Topic Branch](/docs/topic_branch.md)
 ## Dead Project
 
 - What is the definition of a dead project
