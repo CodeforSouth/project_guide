@@ -50,7 +50,8 @@ a guide for every step.
 
 5. [Create A landing page template](https://github.com/Code-for-Miami/project-landing-page-template)
 6. Update Readme with required information
-7. Gather and Document Requirements
+7. Write The Docs
+   - Lint your prose with [https://github.com/btford/write-good](Write Good)
 8. Pick a stack
 
 ## Ongoing Projects
