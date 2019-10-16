@@ -1,4 +1,4 @@
-# Project Guide
+# Code for Miami Project Guide
 Guides to creating, managing and scaling open source projects at Code For Miami.
 
 A manifest of guides and resources we need to create. As we are just getting started everything here is open to debate.
@@ -10,7 +10,7 @@ If you would like to contribute feel free to open a pull request or github issue
 - Reduce frustrations for users and contributers
 - Be inviting to new projects and leads
 - Prioritise small tasks for "Quick wins."
-- Remove [@cyberstrike](https://github.com/CyberStrike) as a bottle-neck to getting things done.
+- Remove [@HiGregory](https://github.com/HiGregory) as a bottle-neck to getting things done.
 
 ```
 From the perspective of a user,
@@ -72,7 +72,7 @@ Guides don't to fit into any particular point in the project cycle.
 ---
 # Legacy
  
-Stolen from Open Austins Docs. Code For America used to have a project stage guideline but it seems to be now defunct. Currently hunting it down for ideas.
+Reused from Open Austin Docs. Code For America used to have a project stage guideline but it seems to be now defunct. Currently hunting it down for ideas.
 
 ### Start an **Experiment**
 
