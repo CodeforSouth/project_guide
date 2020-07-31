@@ -1,5 +1,5 @@
-# Code for Miami Project Guide
-Guides to creating, managing and scaling open source projects at Code For Miami.
+# Code for South Project Guide
+Guides to creating, managing and scaling open source projects at Code For South.
 
 A manifest of guides and resources we need to create. As we are just getting started everything here is open to debate.
 I believe projects need to be broken down into a idea phase, start phase, building phase, and dead phase.
