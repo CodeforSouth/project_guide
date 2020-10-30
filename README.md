@@ -1,10 +1,10 @@
-# Code for South Project Guide
-Guides to creating, managing and scaling open source projects at Code For South.
+# The Public Interest Technology Guide 
 
-A manifest of guides and resources we need to create. As we are just getting started everything here is open to debate.
-I believe projects need to be broken down into a idea phase, start phase, building phase, and dead phase.
+Previously, we allowed people to self project management themselves on projects.
 
-If you would like to contribute feel free to open a pull request or github issue to discuss various line items if one does not exist already, when you do please a make pr on this readme and link to the issue discussion.
+In 2020, we have project focus areas with a specific focus on Justice Discovery in Q3-Q4. 
+
+People are still allowed to work on whatever project, BUT the Code for South Florida staff has set priorities. If you would like to contribute feel free to open a pull request or github issue to discuss various line items if one does not exist already, when you do please a make pr on this readme and link to the issue discussion.
 
 **Goal**
 - Reduce frustrations for users and contributers
@@ -20,17 +20,9 @@ If a feature is documented incorrectly, then it is broken.
 ```
 
 
-## Ideas
-The birthplace of many past and future Code For Miami Projects
-this is the place to start if you have a new idea or looking to propose something.
-
-[Project Idea Guide and Template](https://github.com/Code-for-Miami/project-ideas)
-
 
 ## New Projects
 Guides to creating projects at code for miami.
-
-[New Projects Task List](https://github.com/Code-for-Miami/project_guide/issues/2)
 
 A checklist that covers all the steps to creating a new project which will essentially translate to 
 a guide for every step.
@@ -44,18 +36,12 @@ a guide for every step.
     A guide on recommended changes to repository settings in order to facilitate smooth collaboration and management.
     
     - [Protect Your Master](/docs/configuring_your_repo.md#protect-master)
-    - [Squash It Up - Open Issue](https://github.com/Code-for-Miami/project_guide/issues/7)
-      
+  
       The what, why, how and caveats about squash only merge strategy for your master branch.
-
-5. [Create A landing page template](https://github.com/Code-for-Miami/project-landing-page-template)
-6. Update Readme with required information
-7. Write The Docs
+5. Update Readme with required information
+6. Write The Docs
    - Lint your prose with [https://github.com/btford/write-good](Write Good)
-8. Pick a stack
 
-## Ongoing Projects
-Guides to managing the ongoing process of building a technical project at code for miami.
 
 ### Managing Contributiors and Contributions
 [How to Approach Code Reviews](http://www.bettercode.reviews/)
@@ -69,10 +55,6 @@ Guides to managing the ongoing process of building a technical project at code f
 
 Guides don't to fit into any particular point in the project cycle.
 
----
-# Legacy
- 
-Reused from Open Austin Docs. Code For America used to have a project stage guideline but it seems to be now defunct. Currently hunting it down for ideas.
 
 ### Start an **Experiment**
 
